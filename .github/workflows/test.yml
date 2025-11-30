@@ -1,4 +1,4 @@
-name: Selenium TestNg Manual Run
+name: Mehak Selenium TestNg Manual Run
 
 on:
   workflow_dispatch:
